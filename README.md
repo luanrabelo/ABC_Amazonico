@@ -89,5 +89,5 @@ Divirta-se, maninho ou maninha, e mergulhe no incrível universo do Norte do Bra
 ### Entre em Contato
 Caso tenha dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento por e-mail ou através das redes sociais listadas acima.
 ---
-**Licença**: Este projeto está sob a licença [MIT](LICENSE).
+**Licença**: Este projeto está sob a licença MIT.
 Isso significa que você pode fazer o que quiser com o código, desde que dê o devido crédito aos autores e não responsabilize os desenvolvedores por qualquer problema decorrente do uso do código.
