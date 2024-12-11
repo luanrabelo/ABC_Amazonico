@@ -4,9 +4,11 @@
 
 # ABC Amazônico - Alexa Skill
 
-**ABC Amazônico** é uma jornada interativa que celebra a cultura, fauna e flora únicas da região Norte do Brasil. Com esta skill, você vai se divertir enquanto descobre palavras, expressões e curiosidades ligadas ao universo amazônico, com uma interface interativa e suporte para dispositivos com tela (APL).
+**ABC Amazônico** é uma jornada interativa que celebra a cultura, fauna e flora únicas da região Norte do Brasil. Com esta skill, você vai se divertir enquanto descobre palavras, expressões e curiosidades ligadas ao universo amazônico, com uma interface interativa e suporte para dispositivos com tela (APL).
 ---
-Ao abrir a skill, você será convidado a explorar as letras do alfabeto. Cada letra representa algo especial da Amazônia, seja uma fruta típica, um animal exótico ou um elemento cultural marcante. Por exemplo, "A de Açaí", "B de Bacuri", e "T de Tucupi". Além disso, a skill utiliza um sotaque típico e expressões regionais para criar uma experiência autêntica e envolvente.
+Ao abrir a skill, você será convidado a explorar as letras do alfabeto. Cada letra representa algo especial da Amazônia, seja uma fruta típica, um animal exótico ou um elemento cultural marcante. Por exemplo: "A de Açaí", "B de Bacuri", e "T de Tucupi". Permitindo, dessa forma, a integração da percepção visual (ortografia) e os sons da fala (fonologia) e seus significados (semântica) formem informações unindo esses elementos que são necessários para a aquisição da leitura infantil. 
+
+Além disso, a skill utiliza um sotaque típico e expressões regionais para criar uma experiência autêntica e envolvente. Tudo isso alinhado as habilidades da nossa BNCC, que orienta ouvir gravações, canções, textos falados em variedades linguísticas, identificando características regionais.
 ## Funcionalidades
 Aqui estão algumas das principais funcionalidades e características do **ABC da Amazônia**:
 - **Exploração alfabética**: Descubra itens e curiosidades relacionados a cada letra do alfabeto.
@@ -76,11 +78,15 @@ Divirta-se, maninho ou maninha, e mergulhe no incrível universo do Norte do Bra
 3. Responda **"Sim"** para continuar ou **"Não"** para encerrar o jogo.
 ---
 ## Link para Download
-- Instale a Skill em seu celular ou dispositivo Alexa através do link: [ABC Amazônico - Amazon Skill](https://github.com/seu-usuario/abc-amazonico)
+- Instale a Skill em seu celular ou dispositivo Alexa através do link: [ABC Amazônico - Amazon Skill](https://www.amazon.com.br/dp/B0DPXC3HDX/)
 ---
+# Idealizado por:
+  - Ingrid Clairley [Instagram](https://www.instagram.com/@ingriidclairley) | [LinkedIn](https://www.linkedin.com/in/ingridclairley-ab77ab1a2/)
 # Desenvolvido por: 
-    - Luan Rabelo (@lprabelo) utilizando a ForAlexa (https://doi.org/10.1186/s12052-022-00169-z)
+  - Luan Rabelo (@lprabelo) utilizando a ForAlexa (https://doi.org/10.1186/s12052-022-00169-z)
+
 ### Entre em Contato
 Caso tenha dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento por e-mail ou através das redes sociais listadas acima.
 ---
-**Licença**: Este projeto está sob a licença [MIT](LICENSE).  
+**Licença**: Este projeto está sob a licença [MIT](LICENSE).
+Isso significa que você pode fazer o que quiser com o código, desde que dê o devido crédito aos autores e não responsabilize os desenvolvedores por qualquer problema decorrente do uso do código.
