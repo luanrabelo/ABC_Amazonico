@@ -6,7 +6,7 @@
 
 **ABC Amazônico** é uma jornada interativa que celebra a cultura, fauna e flora únicas da região Norte do Brasil. Com esta skill, você vai se divertir enquanto descobre palavras, expressões e curiosidades ligadas ao universo amazônico, com uma interface interativa e suporte para dispositivos com tela (APL).
 ---
-Ao abrir a skill, você será convidado a explorar as letras do alfabeto. Cada letra representa algo especial da Amazônia, seja uma fruta típica, um animal exótico ou um elemento cultural marcante. Por exemplo: "A de Açaí", "B de Bacuri", e "T de Tucupi". Permitindo, dessa forma, a integração da percepção visual (ortografia) e os sons da fala (fonologia) e seus significados (semântica) formem informações unindo esses elementos que são necessários para a aquisição da leitura infantil. 
+Ao abrir a skill, você será convidado a explorar as letras do alfabeto. Cada letra representa algo especial da Amazônia, seja uma fruta típica, um animal exótico ou um elemento cultural marcante. Por exemplo: "A de Açaí", "B de Bacuri", e "T de Tucupi". Permitindo, dessa forma, a integração da percepção visual (ortografia) e os sons da fala (fonologia) e seus significados (semântica) formarem informações sobre a região norte, unindo esses elementos que são necessários para a aquisição da leitura infantil. 
 
 Além disso, a skill utiliza um sotaque típico e expressões regionais para criar uma experiência autêntica e envolvente. Tudo isso alinhado as habilidades da nossa BNCC, que orienta ouvir gravações, canções, textos falados em variedades linguísticas, identificando características regionais.
 ## Funcionalidades
@@ -32,6 +32,7 @@ Aqui estão alguns exemplos de curiosidades disponíveis na skill:
 - **Guaraná**: Fruto energético usado em bebidas e suplementos, símbolo do poder amazônico.
 - **Igarapé**: Canais de água que cortam a floresta, essenciais para o transporte na região.
 - **Vitória-régia**: Planta aquática icônica da Amazônia, conhecida por suas grandes folhas flutuantes.
+- **Remo**: Clube de futebol do Pará, conhecido como "Leão Azul" e com a maior torcida da Amazônia.
 
 Cada letra do alfabeto traz itens que revelam a biodiversidade e cultura amazônica. Experimente explorar e aprender algo novo com cada rodada!
 
