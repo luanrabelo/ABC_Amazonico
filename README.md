@@ -85,6 +85,8 @@ Divirta-se, maninho ou maninha, e mergulhe no incrível universo do Norte do Bra
   - Ingrid Clairley [Instagram](https://www.instagram.com/@ingriidclairley) | [LinkedIn](https://www.linkedin.com/in/ingridclairley-ab77ab1a2/)
 # Desenvolvido por: 
   - Luan Rabelo (@lprabelo) utilizando a ForAlexa (https://doi.org/10.1186/s12052-022-00169-z)
+# Design por:
+  - Louise Artes [Instagram](https://www.instagram.com/@_louiseartes)
 
 # Entre em Contato
 Caso tenha dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento por e-mail ou através das redes sociais listadas acima.
